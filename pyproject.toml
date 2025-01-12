@@ -1,0 +1,16 @@
+[project]
+name = "cosc-32001"
+version = "0.1.0"
+description = "Computer Vision Course"
+readme = "README.md"
+dependencies = [
+    "pandas",
+    "numpy",
+    "fastapi",
+    "uvicorn",
+    "python-multipart",
+    "opencv-python",
+    "matplotlib>=3.10.0",
+    "scikit-image>=0.25.0",
+    "jupyterlab>=4.3.4",
+]

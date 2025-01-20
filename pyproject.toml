@@ -13,4 +13,5 @@ dependencies = [
     "matplotlib>=3.10.0",
     "scikit-image>=0.25.0",
     "jupyterlab>=4.3.4",
+    "imagecodecs>=2024.12.30",
 ]
